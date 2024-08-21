@@ -26,6 +26,8 @@
   <img width="10" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="33" alt="docker logo"  />
   <img width="10" />
-  
-
+  <img src="https://img.shields.io/badge/wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge" height="33" alt="docker logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/nginx-009639?logo=nginx&style=for-the-badge" height="33" alt="docker logo"  />
+  <img width="10" />
 </div>
