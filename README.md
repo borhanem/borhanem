@@ -12,22 +12,16 @@
   <img width="10" />
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="33" alt="c logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/cpp-00599C?logo=cplusplus&logoColor=black&style=for-the-badge" height="33" alt="c logo"  />
+  <img src="https://img.shields.io/badge/cpp-00599C?logo=cplusplus&logoColor=black&style=for-the-badge" height="33" alt="cpp logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/qt-41CD52?logo=qt&logoColor=white&style=for-the-badge" height="33" alt="c logo"  />
+  <img src="https://img.shields.io/badge/qt-41CD52?logo=qt&logoColor=white&style=for-the-badge" height="33" alt="qt logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="33" alt="c logo"  />
+  <img src="https://img.shields.io/badge/rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="33" alt="rust logo"  />
   <img width="10" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="33" alt="linux logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/debian-A81D33?logo=debian&style=for-the-badge" height="33" alt="c logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/kali-557C94?logo=kalilinux&logoColor=white&style=for-the-badge" height="33" alt="c logo"  />
-  <img width="10" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="33" alt="docker logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge" height="33" alt="docker logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/nginx-009639?logo=nginx&style=for-the-badge" height="33" alt="docker logo"  />
+  <img src="https://img.shields.io/badge/nginx-009639?logo=nginx&style=for-the-badge" height="33" alt="nginx logo"  />
   <img width="10" />
 </div>
